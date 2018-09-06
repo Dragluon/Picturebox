@@ -1,0 +1,11 @@
+F:\Work\VS\PictureBox2.0\PictureBox2.0\bin\Debug\PictureBox2.0.exe.config
+F:\Work\VS\PictureBox2.0\PictureBox2.0\obj\Debug\PictureBox2.0.csprojResolveAssemblyReference.cache
+F:\Work\VS\PictureBox2.0\PictureBox2.0\obj\Debug\PictureBox2._0.Form1.resources
+F:\Work\VS\PictureBox2.0\PictureBox2.0\obj\Debug\PictureBox2._0.Properties.Resources.resources
+F:\Work\VS\PictureBox2.0\PictureBox2.0\obj\Debug\PictureBox2.0.csproj.GenerateResource.Cache
+F:\Work\VS\PictureBox2.0\PictureBox2.0\bin\Debug\PictureBox2.0.exe
+F:\Work\VS\PictureBox2.0\PictureBox2.0\bin\Debug\PictureBox2.0.pdb
+F:\Work\VS\PictureBox2.0\PictureBox2.0\obj\Debug\PictureBox2.0.exe
+F:\Work\VS\PictureBox2.0\PictureBox2.0\obj\Debug\PictureBox2.0.pdb
+F:\Work\VS\PictureBox2.0\PictureBox2.0\obj\Debug\PictureBox2._0.Form2.resources
+F:\Work\VS\PictureBox2.0\PictureBox2.0\obj\Debug\PictureBox2._0.Form3.resources
